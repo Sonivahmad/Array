@@ -47,3 +47,4 @@
 //  }
 //  console.log(isArray([1,2,3]))
 //  exports.isArray = isArray
+Q6
